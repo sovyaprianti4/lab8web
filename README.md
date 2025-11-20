@@ -25,6 +25,11 @@
  
 <img width="1920" height="1200" alt="Screenshot 2025-11-20 144351" src="https://github.com/user-attachments/assets/819008ad-9e69-48c7-a714-7249b4d8d38a" />
 
+# Membuat file index untuk menampilkan data (Read)
+File index.php di VSC
+
+<img width="1920" height="1200" alt="Screenshot 2025-11-20 144926" src="https://github.com/user-attachments/assets/4a4c4c1b-6d82-42c4-abaa-79931326b071" />
+
 
 
 
