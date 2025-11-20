@@ -31,7 +31,7 @@
 <img width="1920" height="1200" alt="Screenshot 2025-11-20 144926" src="https://github.com/user-attachments/assets/4a4c4c1b-6d82-42c4-abaa-79931326b071" />
 
 ## Tampilan Index
-<img width="1920" height="1200" alt="Screenshot 2025-11-20 145908" src="https://github.com/user-attachments/assets/88fb77ba-dfe2-45e8-9db7-874a8b63d6dd" />
+<img width="1920" height="1200" alt="Screenshot 2025-11-20 154411" src="https://github.com/user-attachments/assets/6dbdb5df-4db3-461b-8b3f-71ede49d8b01" />
 
 # Menambah Data (Create)
 Buat File Tambah.php di VSC
