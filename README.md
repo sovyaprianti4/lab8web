@@ -20,6 +20,12 @@
 
 <img width="907" height="167" alt="Screenshot 2025-11-20 141138" src="https://github.com/user-attachments/assets/283c361d-c472-45b0-b611-78496ae727ed" />
 
+# Membuat File koneksi Database
+ file koneksi.php di Visual studio code
+ 
+<img width="1920" height="1200" alt="Screenshot 2025-11-20 144351" src="https://github.com/user-attachments/assets/819008ad-9e69-48c7-a714-7249b4d8d38a" />
+
+
 
 
 
